@@ -1,0 +1,8 @@
+{
+  "name": "calsnap",
+  "version": "1.0.0",
+  "description": "AI calorie tracker from a food photo, with subscription paywall",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
